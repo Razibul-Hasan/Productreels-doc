@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: ProductReels
+  structure:
+    - type: space
+      key: space-productreels
+      title: ProductReels
+      path: productreels
+      default: true
+      content:
+        directory: ./
