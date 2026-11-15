@@ -1,5 +1,5 @@
 ---
-description: Get help from the BestWebExpert team: live chat, or hire us to build it for you.
+description: 'Get help from the BestWebExpert team: live chat, or hire us to build it for you.'
 ---
 
 # Support and hiring BestWebExpert
