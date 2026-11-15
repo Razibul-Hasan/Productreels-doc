@@ -35,5 +35,7 @@ You can disable the metadata lookup entirely with the [`productreels_allow_provi
 The admin interface uses the **Inter** font (SIL OFL 1.1), shipped with the plugin and loaded only on ProductReels admin screens, never on your storefront. Icons are from Lucide (ISC) and drag-and-drop uses dnd-kit (MIT).
 
 {% hint style="success" %}
-**Need help with a privacy policy or consent setup for video providers?** Ask on [live chat](https://bestwebexpert.com/) or [hire BestWebExpert](https://bestwebexpert.com/).
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

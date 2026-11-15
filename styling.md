@@ -78,5 +78,7 @@ Class names such as `.prs-tile` belong to the plugin's markup and may change bet
 {% endhint %}
 
 {% hint style="success" %}
-**Want pixel-perfect styling?** Visit [bestwebexpert.com](https://bestwebexpert.com/) for **live chat**, or [hire BestWebExpert](https://bestwebexpert.com/) for custom design work.
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

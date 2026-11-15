@@ -54,5 +54,7 @@ Below the reels, the **Buttons** table lists your custom buttons with their **ca
 ProductReels does not send visitor data to ProductReels servers. For view limiting, visitor IP addresses are hashed and are never stored in the analytics tables. See [Privacy](privacy.md).
 
 {% hint style="success" %}
-**Want help turning these numbers into more sales?** [Chat with us](https://bestwebexpert.com/) (**live chat available**) or [hire BestWebExpert](https://bestwebexpert.com/) for conversion and growth work.
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

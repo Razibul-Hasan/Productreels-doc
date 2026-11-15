@@ -76,5 +76,7 @@ Saving a widget clears its cache, so changes show on your site straight away. Se
 {% endhint %}
 
 {% hint style="success" %}
-**Stuck on a design?** [Talk to us on live chat](https://bestwebexpert.com/) or [hire BestWebExpert](https://bestwebexpert.com/) to style your reels to match your brand.
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

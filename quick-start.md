@@ -6,6 +6,12 @@ description: Publish your first shoppable reels in four steps.
 
 This walkthrough takes about five minutes. You will add a reel, build a widget, style it and put it on a page.
 
+Prefer to watch? Here is the one-minute video tutorial:
+
+{% embed url="https://youtu.be/LrdGQSYt1Zw" %}
+ProductReels video tutorial
+{% endembed %}
+
 {% stepper %}
 {% step %}
 ### Add your first reel
@@ -59,5 +65,7 @@ Publish the page, and your reels are live. [All placement options →](placing-w
 Tapping a reel opens the [fullscreen player](shopper-experience.md), where shoppers can swipe through videos and add products to the cart.
 
 {% hint style="success" %}
-**Want it set up for you?** Our team can build and style your reels. Visit [bestwebexpert.com](https://bestwebexpert.com/) for **live chat**, or [hire BestWebExpert](https://bestwebexpert.com/).
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

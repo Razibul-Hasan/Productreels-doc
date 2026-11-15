@@ -55,5 +55,7 @@ ProductReels has two ideas. Once you know them, everything else follows.
 Next: build your first widget in the [Quick start](quick-start.md).
 
 {% hint style="success" %}
-**Need help?** [bestwebexpert.com](https://bestwebexpert.com/): **live chat available.** [Hire BestWebExpert](https://bestwebexpert.com/) for hands-on setup.
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

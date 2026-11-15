@@ -93,5 +93,7 @@ Plugin settings are stored in the `productreels_settings` option. See [Settings 
 Readable JS, JSX and SCSS sources ship with the plugin in `admin/src`, `public/src`, `block/src` and `src/shared`. Build instructions are in the plugin's `README.md`.
 
 {% hint style="success" %}
-**Building something custom on ProductReels?** Talk to our developers on [live chat](https://bestwebexpert.com/) or [hire BestWebExpert](https://bestwebexpert.com/) for integrations and custom features.
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

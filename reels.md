@@ -96,5 +96,7 @@ A reel needs **a video and at least one product or button** before **Save reel**
 {% endhint %}
 
 {% hint style="success" %}
-**Need help with your video strategy or setup?** [Chat with our team](https://bestwebexpert.com/) (**live chat available**) or [hire BestWebExpert](https://bestwebexpert.com/).
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

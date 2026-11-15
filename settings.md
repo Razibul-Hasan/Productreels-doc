@@ -57,5 +57,7 @@ Switch on **Delete all data on uninstall** only if you want deleting the plugin 
 {% endhint %}
 
 {% hint style="success" %}
-**Questions about caching, security or performance tuning?** [Live chat](https://bestwebexpert.com/) is available, or [hire BestWebExpert](https://bestwebexpert.com/) to review your setup.
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

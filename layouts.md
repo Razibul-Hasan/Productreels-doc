@@ -19,6 +19,10 @@ Pick a layout when you create a widget, or change it any time in the editor's **
 | [Popup](layouts.md#floating-popup) | Any page | A small video that floats in a corner. |
 | [Story thumbnails](layouts.md#story-style-thumbnails) | Under headers, above product grids | Round thumbnails, like social stories. |
 
+{% hint style="info" %}
+**See the layouts live:** open the [Reel layouts](https://bestwebexpert.com/reel-layouts/) page, the [ProductReels demo](https://bestwebexpert.com/productreels/), the [Lookbook](https://bestwebexpert.com/lookbook/) or [Shop the look](https://bestwebexpert.com/shop-the-look/).
+{% endhint %}
+
 ## Carousel
 
 One row of reels that people swipe through. Navigation arrows sit **inside** or **outside** the row (set under [Styling → Player](styling.md#player)).
@@ -94,5 +98,7 @@ The **Layout** step also controls:
 Reel width and gap can be set separately for **Desktop**, **Tablet** and **Mobile**: switch device in the preview, then adjust.
 
 {% hint style="success" %}
-**Not sure which layout will convert best for your store?** Ask on [live chat](https://bestwebexpert.com/) or [hire BestWebExpert](https://bestwebexpert.com/) for a tailored recommendation.
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

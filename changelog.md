@@ -37,3 +37,9 @@ description: Release notes for ProductReels.
 {% hint style="info" %}
 **Upgrading?** Your existing reels, widgets and settings are preserved across updates. Version 1.1.1 added two database tables; existing data is kept.
 {% endhint %}
+
+{% hint style="success" %}
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
+{% endhint %}

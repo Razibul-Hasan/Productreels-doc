@@ -16,6 +16,12 @@ coverY: 0
 **100% free.** There is no Pro plan, license key or locked feature. Everything in this documentation is included.
 {% endhint %}
 
+## Watch the video tutorial
+
+{% embed url="https://youtu.be/LrdGQSYt1Zw" %}
+ProductReels in one minute: reels, widgets, layouts and statistics
+{% endembed %}
+
 ## What you can do
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Add reels</strong></td><td>Upload videos or use YouTube Shorts and Vimeo, pick a cover and tag products.</td><td><a href="reels.md">reels.md</a></td></tr><tr><td><strong>Build widgets</strong></td><td>Pick a layout, style it with a live desktop, tablet and mobile preview.</td><td><a href="widgets.md">widgets.md</a></td></tr><tr><td><strong>Place them anywhere</strong></td><td>Shortcode, Gutenberg block, Elementor widget, or automatically on product pages.</td><td><a href="placing-widgets.md">placing-widgets.md</a></td></tr><tr><td><strong>Track results</strong></td><td>Views, clicks, click rate, orders and revenue for every reel.</td><td><a href="statistics.md">statistics.md</a></td></tr></tbody></table>
@@ -45,11 +51,12 @@ coverY: 0
 
 ## Live demos
 
-* [Live demo: see ProductReels in action](https://bestwebexpert.com/productreels/)
-* [Preview reel layouts](https://bestwebexpert.com/reel-layouts/)
-* [Shop the look demo](https://bestwebexpert.com/shop-the-look/)
-* [Lookbook preview](https://bestwebexpert.com/lookbook/)
+See ProductReels working on a real site before you install it:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>ProductReels demo</strong></td><td>Every layout and the fullscreen player, live.</td><td><a href="https://bestwebexpert.com/productreels/">https://bestwebexpert.com/productreels/</a></td></tr><tr><td><strong>Reel layouts</strong></td><td>Preview every layout side by side.</td><td><a href="https://bestwebexpert.com/reel-layouts/">https://bestwebexpert.com/reel-layouts/</a></td></tr><tr><td><strong>Lookbook</strong></td><td>A shoppable lookbook built with reels.</td><td><a href="https://bestwebexpert.com/lookbook/">https://bestwebexpert.com/lookbook/</a></td></tr><tr><td><strong>Shop the look</strong></td><td>Tag products on a video and let shoppers buy the look.</td><td><a href="https://bestwebexpert.com/shop-the-look/">https://bestwebexpert.com/shop-the-look/</a></td></tr></tbody></table>
 
 {% hint style="success" %}
-**Need help? Our team is one click away.** Visit [bestwebexpert.com](https://bestwebexpert.com/): **live chat is available.** Want a custom setup, design or integration? **[Hire BestWebExpert](https://bestwebexpert.com/)**.
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

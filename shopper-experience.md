@@ -49,6 +49,12 @@ The widget itself is what shoppers see on the page. Everything about its thumbna
 * Videos are **lazy-loaded**, so pages stay fast.
 * The player and any YouTube or Vimeo scripts load **only when needed**.
 
+{% hint style="info" %}
+**Want to see it live?** Try the [ProductReels demo](https://bestwebexpert.com/productreels/), [Reel layouts](https://bestwebexpert.com/reel-layouts/), the [Lookbook](https://bestwebexpert.com/lookbook/) or [Shop the look](https://bestwebexpert.com/shop-the-look/).
+{% endhint %}
+
 {% hint style="success" %}
-**Want to see it live?** Try the [live demo](https://bestwebexpert.com/productreels/). For a custom shopping experience, [hire BestWebExpert](https://bestwebexpert.com/) or start a **live chat** at [bestwebexpert.com](https://bestwebexpert.com/).
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

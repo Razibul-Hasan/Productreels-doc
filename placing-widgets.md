@@ -74,5 +74,7 @@ If the widget ID is missing or does not exist, **administrators** see a short no
 {% endhint %}
 
 {% hint style="success" %}
-**Need a hand placing widgets in a complex theme or page builder?** [Live chat](https://bestwebexpert.com/) is available, or [hire BestWebExpert](https://bestwebexpert.com/).
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

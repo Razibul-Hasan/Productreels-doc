@@ -1,5 +1,5 @@
 ---
-description: 'Get help from the BestWebExpert team: live chat, or hire us to build it for you.'
+description: Get help from the BestWebExpert team: live chat, or hire us to build it for you.
 ---
 
 # Support and hiring BestWebExpert
@@ -30,15 +30,18 @@ ProductReels is built by **BestWebExpert**. If you need help, there is a real te
 
 ## See it in action
 
-* [Live demo](https://bestwebexpert.com/productreels/)
+* [Video tutorial on YouTube](https://youtu.be/LrdGQSYt1Zw)
+* [ProductReels demo](https://bestwebexpert.com/productreels/)
 * [Reel layouts](https://bestwebexpert.com/reel-layouts/)
-* [Shop the look](https://bestwebexpert.com/shop-the-look/)
 * [Lookbook](https://bestwebexpert.com/lookbook/)
+* [Shop the look](https://bestwebexpert.com/shop-the-look/)
 
 You can also reach the team from inside WordPress: the **Hire an expert** button in the ProductReels admin header links straight to us.
 
 <figure><img src=".gitbook/assets/widgets-list.png" alt="The Hire an expert button in the ProductReels admin header"><figcaption><p>The <strong>Hire an expert</strong> button sits in the top-right of every ProductReels screen.</p></figcaption></figure>
 
 {% hint style="success" %}
-**Ready to start?** Open **[bestwebexpert.com](https://bestwebexpert.com/)** and use the **live chat**.
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

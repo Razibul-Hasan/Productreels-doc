@@ -59,5 +59,7 @@ Product placement needs **WooCommerce**. Each widget is placed independently, so
 {% endhint %}
 
 {% hint style="success" %}
-**Want product-page reels set up across your whole catalog?** Chat with us at [bestwebexpert.com](https://bestwebexpert.com/) (**live chat available**) or [hire BestWebExpert](https://bestwebexpert.com/).
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}

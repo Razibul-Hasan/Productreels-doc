@@ -124,5 +124,7 @@ Only **paid** orders that contain a product **added to the cart from a reel** ar
 * Make sure **Show on mobile** is on if you are testing on a phone.
 
 {% hint style="success" %}
-**Still stuck?** Our team can help. Visit [bestwebexpert.com](https://bestwebexpert.com/) and start a **live chat**, or [hire BestWebExpert](https://bestwebexpert.com/) to fix it for you. See [Support](support.md).
+### Need help? Chat live or hire an expert
+
+Our team at BestWebExpert is ready to help: **[start a live chat](https://bestwebexpert.com/)** or **[hire BestWebExpert](https://bestwebexpert.com/)** to set up, style or extend ProductReels for you.
 {% endhint %}
